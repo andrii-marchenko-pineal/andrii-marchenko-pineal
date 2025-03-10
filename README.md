@@ -1,4 +1,5 @@
 
+![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36652f61352f66642f36656135666435393834373766346562363232353366633330303430333963612e676966](https://github.com/user-attachments/assets/596ed98c-cb54-4fdf-9572-9f16c8a2335a)
 
 <!--
 **andrii-marchenko-pineal/andrii-marchenko-pineal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
