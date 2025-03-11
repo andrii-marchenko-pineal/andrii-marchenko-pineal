@@ -3,5 +3,5 @@
 
 <!-- ![snake gif](https://github.com/andrii-marchenko-pineal/andrii-marchenko-pineal/blob/output/github-snake-dark.svg) -->
 
-<!-- <img align="left" height="190" src="https://github.com/andrii-marchenko-pineal/andrii-marchenko-pineal/blob/5b6e3d71fee11c3ca901b48e82c232a0927ffdae/0013267623tg432tgbv0987yt.gif"  /> -->
+<img align="left" height="190" src="https://github.com/andrii-marchenko-pineal/andrii-marchenko-pineal/blob/7ef82cbfa010e01115ffe49b488a62c2bd6aabbd/0013267623tg432tgbv0987yt.gif"  />
 
